@@ -9,10 +9,10 @@ _На данном этапе у меня большой опыт тестиро
 
 ## Резюме
 <p align="left">
-<a href="https://hh.ru/resume/06b4071eff0cb1b1db0039ed1f6171354d6332">  
+<a href="https://hh.ru/resume/06b4071eff0cb1b1db0039ed1f6171354d6332" target="_blank">  
 <img src="/icons/hh-red.png" alt="Mikhail`s CV" width="50" height="50" />  
  </a>
- <a href="https://ru.linkedin.com/in/mikhail-mitrofanov-04962534a">  
+ <a href="https://ru.linkedin.com/in/mikhail-mitrofanov-04962534a" target="_blank">  
 <img src="/icons/linkedin.png" alt="Mikhail`s CV" width="50" height="50" />  
  </a>  
 </p>
