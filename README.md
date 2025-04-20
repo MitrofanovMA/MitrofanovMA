@@ -117,7 +117,17 @@ _На данном этапе у меня большой опыт тестиро
 <a href="https://www.cypress.io/" target="_blank">
   <img src="/icons/cypressJS.png" alt="cypressJS" width="50" height="50" />
 </a>
+
+</p>
+
 ## Мои контакты
 
-[![Telegram](/icons/telegram.png)](https://t.me/Mitrofanov_MA)
-[![Email](/icons/mail.png)](mailto:Mikhail.24.Mitrofanov@yandex.ru)
+<p align="center">
+<a href="https://t.me/Mitrofanov_MA" target="_blank">
+  <img src="/icons/telegram.png" alt="Telegram" width="50" height="50">
+</a>
+<a href="mailto:Mikhail.24.Mitrofanov@yandex.ru" target="_blank">
+  <img src="/icons/mail.png" alt="Email" width="50" height="50">
+</a>
+</p>
+
